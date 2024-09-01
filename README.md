@@ -15,4 +15,5 @@ This weather API uses Redis to cache weather data query results. The API fetches
 - Visual Crossing API Key (free API key)
 - Redis (local installation or Docker container)
 
-
+Project URL
+https://roadmap.sh/projects/weather-api-wrapper-service
